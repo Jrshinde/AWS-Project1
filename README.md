@@ -1,0 +1,1 @@
+The objective of this project is to build a resilient and easily expandable multi-tier website on the Amazon Web Services (AWS) platform, utilizing EC2 instances. The website will consist of a front-end component responsible for delivering web content, an application layer for handling requests, and a backend database for data storage.
